@@ -1,0 +1,1 @@
+module.exports = async function jb() { return [{name:'Pokemon Booster',store:'JB Hi-Fi',price:24.95,url:'https://www.jbhifi.com.au/product/456'}]; };

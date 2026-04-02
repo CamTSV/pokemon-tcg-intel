@@ -1,0 +1,1 @@
+export function sendPushNotification(msg){ console.log('Push:', msg); }

@@ -1,0 +1,1 @@
+module.exports = product => product.name && product.price && product.url;

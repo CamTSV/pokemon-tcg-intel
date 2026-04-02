@@ -1,0 +1,1 @@
+module.exports = async function bigw() { return [{name:'Pokemon ETB',store:'Big W',price:49.95,url:'https://www.bigw.com.au/product/123'}]; };

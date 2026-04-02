@@ -1,0 +1,1 @@
+module.exports = product => `${product.store}-${product.name}`.replace(/\s+/g,'-').toLowerCase();
